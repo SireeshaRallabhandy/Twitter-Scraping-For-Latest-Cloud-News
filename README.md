@@ -13,10 +13,10 @@
     ####input your credentials here
     # gui part
 
-    consumer_key = 'SwIXzXlxjTqQyQ1don6IZD4XS'
-    consumer_secret = 'cxOVpkZuXw0dUwU5YlauFK3w8Dbr9UPgaQem4Nk1GQLC6clfp2'
-    access_token = '1374754867474956288-7upXsUKZHMxRF81UcbUbBn3vVDAVJy'
-    access_token_secret = '0YCuJBm9DktzjYGGFxGPKvmd3taDcGj9gZMr6c4jnfPwJ'
+    consumer_key = 'xxxxxxxxxxxxxxxxxxxxxxxx'
+    consumer_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    access_token = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
+    access_token_secret = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
     auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
